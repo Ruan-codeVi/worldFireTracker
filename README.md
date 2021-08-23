@@ -1,1 +1,1 @@
-# worldFireTracker
+# WorldFireTracker
