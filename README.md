@@ -1,3 +1,11 @@
+## Description
+APLICAÇÃO CAPAZ DE ACOMPANHAR EM REAL-TIME
+GRANDES INCÊNDIOS AO REDOR DO MUNDO, INFORMAÇÕES
+DESSES INCÊNDIOS SÃO CAPTADAS VIA SATÉLITES DA
+AGÊNCIA ESPACIAL NASA.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
